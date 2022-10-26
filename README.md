@@ -246,4 +246,4 @@ extract_transform_load(wiki_file, kaggle_file, ratings_file)
 ```
 ## Summary
 
-The ETL function collects and cleans the data from the two different sources (Wikipedia & Kaggle). It transforms,merges, and loads the data it into two updatable PostgreSQL database tables ready to be used by the hackathon participants for their analysis.
+The ETL function collects and cleans the data from the two different sources (Wikipedia & Kaggle). It transforms, merges, and loads the data it into two updatable PostgreSQL database tables ready to be used by the hackathon participants for their analysis.
